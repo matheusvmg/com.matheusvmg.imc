@@ -14,8 +14,10 @@
 O objetivo principal e a motivação do projeto foi o aprendizado, foi um período de desenvolvimento muito produtivo e rico em aprendizado.
 
 #### Aprendizado:checkered_flag:
-Além de aprender como funciona a dinâmica e trabalho do `react native` foi possível também o aprendizado de conceitos e conteúdos como componentização, desestruturação, estado de um componente e a melhor parte de todas, a personalização de um modal próprio utilizando a lib `react-native-modal`
+Além de aprender como funciona a dinâmica e trabalho do `react native` foi possível também o aprendizado de conceitos e conteúdos como componentização, desestruturação, estado de um componente e a melhor parte de todas, a personalização de um modal próprio utilizando a lib `react-native-modal`.
+
 <hr />
+
 ## Tecnologias utilizadas
 
 - [x] Javascript
@@ -26,6 +28,7 @@ Além de aprender como funciona a dinâmica e trabalho do `react native` foi pos
 - [x] Nodejs
 
 <hr />
+
 ## :warning:Como utilizar:warning:
 Para utilizar é bastantes simples, apenas [clique aqui](https://github.com/matheusvmg/com.matheusvmg.imc/blob/master/Imc-v1.2.apk) que você será redirecionado para a página do github onde está hospedado o arquivo, já na página clique em `Download` para baixar o .apk da versão mais atual do aplicativo.
 
@@ -36,12 +39,18 @@ O app tem a simples função de calcular o seu Índice de massa corpórea.
 1. Ao entrar no app digite seu peso no primeiro campo.
 2. Depois digite sua altura `digite com . os números ao invés da vírgula`.
 3. Clique em calcular para a exibição do resultado, contendo o valor do IMC e sua categria/condição.
+
 ### Dê seu feedback:point_down:
 Tem alguma sugestão de melhoria ou funcionalidade?
 
 <strong>Contatos :</strong>
-:email: matheusvmg@gmail.com
+<br />
+:email: matheusvmg@gmail.com - <strong>email</strong>
+<br />
 :link: [Matheus Vinícius Meirelles Góes](www.linkedin.com/in/matheus-vinícius-meirelles-góes-5b8058aa) - <strong>linkedin</strong>
+<br />
 :iphone: [matheusgoes.dev](https://www.instagram.com/matheusgoes.dev/) - <strong>instagram</strong>
+<br />
 :octocat: [matheusvmg](https://github.com/matheusvmg) - <strong>github</strong>
+<br />
 <h1 align="center">:octocat:</h1>
