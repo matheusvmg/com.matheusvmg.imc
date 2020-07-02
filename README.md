@@ -30,9 +30,7 @@ Além de aprender como funciona a dinâmica e trabalho do `react native` foi pos
 <hr />
 
 ## :warning:Como utilizar:warning:
-Para utilizar é bastantes simples, apenas [clique aqui](https://github.com/matheusvmg/com.matheusvmg.imc/blob/master/Imc-v1.2.apk) que você será redirecionado para a página do github onde está hospedado o arquivo, já na página clique em `Download` para baixar o .apk da versão mais atual do aplicativo.
-
-Para a versão antiga [clique aqui](https://github.com/matheusvmg/com.matheusvmg.imc/blob/master/imc-v1.1.apk).
+Para utilizar é bastantes simples, apenas [clique aqui](https://github.com/matheusvmg/com.matheusvmg.imc/blob/master/Imc-v1.2.1.apk) que você será redirecionado para a página do github onde está hospedado o arquivo, já na página clique em `Download` para baixar o .apk da versão mais atual do aplicativo.
 
 ### Funcionalidades:heavy_check_mark:
 O app tem a simples função de calcular o seu Índice de massa corpórea.
