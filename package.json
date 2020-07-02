@@ -1,7 +1,7 @@
 {
   "main": "node_modules/expo/AppEntry.js",
   "name": "Imc",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
@@ -40,6 +40,7 @@
     "react-native-modal",
     "imc",
     "android",
-    "javascript"
+    "javascript",
+    "react-native-resposive-screen"
   ]
 }

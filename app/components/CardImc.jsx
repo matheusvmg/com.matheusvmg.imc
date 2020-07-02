@@ -5,7 +5,7 @@ import ModalValidacao from './Modal2'
 import styles from '../styles/CardImc'
 
 const CardImc = () => {
-
+  
     //classificação IMC
     /* menor que 18,5 -> Magreza
     * Entre 18,5 e 24,9	-> Normal

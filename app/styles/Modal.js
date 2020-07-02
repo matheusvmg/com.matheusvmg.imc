@@ -1,9 +1,10 @@
 import { StyleSheet } from 'react-native'
+import { widthPercentageToDP as wp, heightPercentageToDP as hp } from 'react-native-responsive-screen'
 
 const styles = StyleSheet.create({
     container: {
-        height: '40%',
-        width: '80%',
+        height: hp('40%'), //40%
+        width: wp('80%'), //80%
         borderRadius: 10,
         backgroundColor: '#293241',
         justifyContent: 'center',
@@ -20,18 +21,18 @@ const styles = StyleSheet.create({
     result: {
         alignSelf: 'center',
         margin: 25,
-        fontSize: 20,
+        fontSize: hp('2.5%'), //20
         color: '#fff'
       },
       result2: {
         alignSelf: 'center',
-        fontSize: 20,
+        fontSize: hp('2.5%'), //20
         color: '#fff',
         margin: 25
       },
       text_card_result: {
         color: '#fff',
-        fontSize:40
+        fontSize: hp('5%') //40
       }
 })
 

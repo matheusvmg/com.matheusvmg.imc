@@ -10,14 +10,14 @@ const styles = StyleSheet.create({
       marginLeft: 20,
       marginRight: 20,
       marginBottom: 50,
-      maxWidth: '100%',
+      maxWidth: wp('100%'), //100%
       flex: 1,
-      maxHeight: '100%',
+      maxHeight: hp('100%'), //100%
       paddingBottom: 15
     },
     title: {
       alignSelf: 'center',
-      fontSize: 40, //50
+      fontSize: hp('5%'), //40
       margin: 20,
       marginTop:50,
       color: '#293241'
@@ -25,7 +25,7 @@ const styles = StyleSheet.create({
     label: {
       color: '#293241',
       marginLeft: 35,
-      fontSize: 18,
+      fontSize: hp('2%'), //18
       marginTop: 20
     },
     input: {
@@ -41,19 +41,19 @@ const styles = StyleSheet.create({
     result: {
       alignSelf: 'center',
       margin: 20,
-      fontSize: 22,
+      fontSize: hp('4%'), //22
       color: '#fff'
     },
     result2: {
       alignSelf: 'center',
-      fontSize: 22,
+      fontSize: hp('4%'), //22
       color: '#fff',
       margin: 20
     },
     card_result: {
-      height: '35%', //250
-      width: '70%', //278
-      maxWidth: '70%',
+      height: hp('35%'), //250 //35%
+      width: wp('70%'), //278 //70%
+      maxWidth: wp('70%'), //70%
       backgroundColor: '#33415C',
       borderRadius: 10,
       alignSelf: 'center',
@@ -64,11 +64,11 @@ const styles = StyleSheet.create({
     },
     text_card_result: {
       color: '#fff',
-      fontSize:34
+      fontSize: hp('5%') //34
     },
     btn: {
-      height: '10%', //39
-      width: '50%', //206
+      height: hp('6%'), //39 //10%
+      width: wp('50%'), //206 //50%
       backgroundColor: '#33415C',
       borderColor: '#293241',
       borderWidth: 5,
@@ -82,7 +82,7 @@ const styles = StyleSheet.create({
     btn_title: {
       color: '#fff',
       textAlign: 'center',
-      fontSize: 22
+      fontSize: hp('3%') //22
     }
   })
 
